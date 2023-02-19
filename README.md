@@ -1,2 +1,0 @@
-# Calculadora-completa
-#Calculadora simples
